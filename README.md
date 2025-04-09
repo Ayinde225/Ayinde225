@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me ayindeakanji.first@gmail.com
--                  or mustaphaa1@student.iugb.edu.ci
+-                 
 
 <!---
 Ayinde225/Ayinde225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
