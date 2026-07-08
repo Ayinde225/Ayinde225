@@ -1,16 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ayinde+Mustapha+%F0%9F%91%8B;Finance+%2B+Full-Stack+Web+Developer;B.S.+Finance+%7C+CISA+%40+UC+Arkansas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Ayinde+Mustapha+%F0%9F%91%8B;Finance+%2B+Full-Stack+Web+Developer;I+turn+financial+logic+into+working+code;B.S.+Finance+%7C+CISA+%40+UC+Arkansas" alt="Typing SVG" />
 
-<p>
-<a href="https://www.linkedin.com/in/mustapha-ayinde-abdul-aziz-akanji-19598828b/"><img src="https://img.shields.io/badge/Open%20to-Freelance-A855F7?style=for-the-badge&logo=briefcase&logoColor=white" /></a>
-</p>
+<br/>
 
-<p>
+<!-- Ticker strip -->
+<img src="https://img.shields.io/badge/📈_GPA-3.88%2F4.0-16A34A?style=flat-square" />
+<img src="https://img.shields.io/badge/💻_STACK-Full--Stack-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/🌍_LANGUAGES-3-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/🚀_STATUS-Open_to_Freelance-EC4899?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Ayinde225&label=Profile%20views&color=A855F7&style=flat-square" />
+
+<br/><br/>
+
 <a href="https://github.com/Ayinde225"><img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mustapha-ayinde-abdul-aziz-akanji-19598828b/"><img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:ayindeakanji.first@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" alt="Gmail" /></a>
-</p>
 
 </div>
 
@@ -20,12 +25,25 @@
 
 🎓 Pursuing a **B.S. in Finance** (minor in CISA) at the **University of Central Arkansas** — GPA **3.88**, Dean's List.
 
-💻 Junior **full-stack web developer** working across React front ends, Node.js APIs, and MongoDB data.
+💻 Junior **full-stack web developer** across React front ends, Node.js APIs, and MongoDB data.
 
-- 🔭 **Building [Fin-Xpert](https://github.com/Ayinde225/Fin-Xpert-AKANJI)**: a full-stack financial management platform — invoicing, double-entry ledger & reports, MFA, and full i18n/RTL support.
+- 🔭 **Building [Fin-Xpert](https://github.com/Ayinde225/Fin-Xpert-AKANJI)** — a full-stack financial management platform (invoicing, double-entry ledger & reports, MFA, full i18n/RTL).
 - 🎓 **Dean's List, Spring 2025** @ University of Central Arkansas (GPA 3.88).
 - 🤝 **Open to freelance** web development work.
 - 🌍 Trilingual: French (native), English (professional), Arabic (elementary).
+
+<details>
+<summary>☕ &nbsp;<b>A bit more about me</b></summary>
+
+<br/>
+
+- 🧠 My favorite problems live where a spreadsheet stops being enough and needs to become an *app*.
+- 🧾 I think in **debits and credits** *and* in **components and state** — Fin-Xpert is what happens when both show up.
+- 🌍 I've studied on two continents (Côte d'Ivoire 🇨🇮 → United States 🇺🇸).
+- 📚 Always shipping something small on the side to learn something new.
+- 💬 Ask me about **financial modeling, React, or building products end-to-end**.
+
+</details>
 
 ---
 
@@ -93,6 +111,20 @@ An end-to-end platform where my finance background meets real engineering — bu
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayinde225&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayinde225&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+
+</div>
+
+### 🐍 Contribution activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ayinde225/Ayinde225/output/github-snake-dark.svg" alt="Contribution snake" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinde225&theme=react-dark&hide_border=true&area=true&custom_title=Coding%20Activity" alt="Activity Graph" />
+
 </div>
 
 ---
@@ -112,12 +144,16 @@ An end-to-end platform where my finance background meets real engineering — bu
 
 ---
 
-## Let's Connect 🔗
-
 <div align="center">
+
+## Let's Connect 🔗
 
 <a href="https://www.linkedin.com/in/mustapha-ayinde-abdul-aziz-akanji-19598828b/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://github.com/Ayinde225"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="mailto:ayindeakanji.first@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" /></a>
+
+<br/><br/>
+
+<i>“Balance the books, then ship the build.”</i>
 
 </div>
