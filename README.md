@@ -67,10 +67,10 @@ System design & testing at scale
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayinde225&show_icons=true&hide_border=true&count_private=true&custom_title=Quarterly%20Performance&title_color=A855F7&icon_color=22C55E&text_color=9BA1A6&bg_color=0D1117" height="170" />
-<img src="https://streak-stats.demolab.com/?user=Ayinde225&hide_border=true&background=0D1117&ring=A855F7&fire=22C55E&currStreakLabel=A855F7&sideLabels=9BA1A6&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ayinde225&show_icons=true&hide_border=true&count_private=true&custom_title=Quarterly%20Performance&title_color=A855F7&icon_color=22C55E&text_color=768390&bg_color=00000000" height="170" />
+<img src="https://streak-stats.demolab.com/?user=Ayinde225&hide_border=true&background=00000000&ring=A855F7&fire=22C55E&currStreakLabel=A855F7&sideLabels=768390&currStreakNum=768390&sideNums=768390&dates=768390" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayinde225&layout=compact&hide_border=true&custom_title=Asset%20Allocation%20(Languages)&title_color=A855F7&text_color=9BA1A6&bg_color=0D1117" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayinde225&layout=compact&hide_border=true&custom_title=Asset%20Allocation%20(Languages)&title_color=A855F7&text_color=768390&bg_color=00000000" height="150" />
 
 </div>
 
@@ -78,9 +78,13 @@ System design & testing at scale
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ayinde225/Ayinde225/output/github-snake-dark.svg" alt="Contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayinde225/Ayinde225/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayinde225/Ayinde225/output/github-snake.svg" />
+  <img alt="Contribution snake eating the commit graph" src="https://raw.githubusercontent.com/Ayinde225/Ayinde225/output/github-snake-dark.svg" />
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinde225&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=22C55E&point=ffffff&custom_title=Commit%20Volume%20Over%20Time" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinde225&hide_border=true&area=true&bg_color=00000000&title_color=A855F7&color=768390&line=22C55E&point=A855F7&custom_title=Commit%20Volume%20Over%20Time" alt="Activity Graph" />
 
 </div>
 
