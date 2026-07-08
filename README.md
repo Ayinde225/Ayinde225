@@ -59,6 +59,7 @@ System design & testing at scale
 |:------:|:---------|:------------------|
 | **[$FINX](https://github.com/Ayinde225/Fin-Xpert-AKANJI)** | **Fin-Xpert** — Full-stack financial platform | Invoicing, double-entry ledger & Balance Sheet reports, MFA (TOTP), full i18n/RTL, cached aggregations. My finance thesis, executed in code. `React` `Node.js` `MongoDB` |
 | **[$LOAN](https://github.com/Ayinde225/loan-amortization-visualizer)** | **Loan Amortization Visualizer** — mortgage schedule & prepayment | Monthly payment, total interest, payoff date, balance chart, and interest saved from extra payments. Amortization math from first principles, unit-tested. `React` `Vite` |
+| **[$FSA](https://github.com/Ayinde225/financial-statement-analyzer)** | **Financial Statement Analyzer** — ratios & insights | Upload/enter statements → liquidity, profitability, leverage & efficiency ratios, each rated, plus plain-English insights. Ratio + insight engines unit-tested. `React` `Vite` |
 | **[$CHAT](https://github.com/Ayinde225)** | **Realtime Chat** — Appwrite backend | Realtime data sync + auth patterns, hands-on with backend-as-a-service. `React` `Appwrite` |
 | **$MORE** | Diversified holdings | Algorithms, React exercises & experiments → [full portfolio](https://github.com/Ayinde225?tab=repositories) |
 
